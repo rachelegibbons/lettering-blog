@@ -1,0 +1,23 @@
+.foldedPen {
+  width: 50%;
+  font-family: sans-serif;
+  color: red;
+}
+
+.pointedPen {
+  width: 75%;
+  font-family: cursive;
+  color: blue;
+}
+
+.automaticPen {
+  width: 30%;
+  font-family: fantasy;
+  color: purple;
+}
+
+.broadEdge {
+  width: 60%;
+  font-family: monospace;
+  color: pink;
+}
